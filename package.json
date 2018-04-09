@@ -1,0 +1,19 @@
+{
+  "name": "crazy-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron-screenshot": "^1.0.5",
+    "image-size": "^0.6.2"
+  },
+  "devDependencies": {
+    "electron": "^1.8.3",
+    "electron-packager": "^11.1.0"
+  }
+}
